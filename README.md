@@ -4,7 +4,10 @@ Solved Using Juggling Approach
 We just simply have to shift the elements of an array "k" times and print the output.
 
 - Input:-
- __ 5 2
- - 1 2 3 4 5
+ __
+ 5 2
+ __
+ 1 2 3 4 5
 - Output:-
- __3 4 5 1 2__
+ __
+ 3 4 5 1 2
