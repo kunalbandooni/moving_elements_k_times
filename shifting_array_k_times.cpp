@@ -1,6 +1,6 @@
 /*
-Complexity:- O(n)
-No extra space needed, not even O(1)
+Time Complexity:- O(n)
+Space Complexity:- O(1)
 Input:-
 5 2
 1 2 3 4 5
