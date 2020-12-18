@@ -12,7 +12,7 @@ using namespace std;
 int main(){
     int n,k;
     cin>>n>>k;
-    int a[100000];
+    int a[n];
     for(int i=0;i<n;i++)
         cin>>a[i];
     k=k%n;
