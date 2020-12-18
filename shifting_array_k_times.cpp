@@ -15,6 +15,7 @@ int main(){
     int a[100000];
     for(int i=0;i<n;i++)
         cin>>a[i];
+    k=k%n;
     for(int i=0;i<k/2;i++)
         swap(a[i],a[k-i-1]);
     for(int i=k;i<(n+k)/2;i++)  
